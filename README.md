@@ -1,5 +1,5 @@
-Brownie - A Delightful CMS for Programmers
-==========================================
+Brownie - A Delightful CMS
+==========================
 
 About
 -----
