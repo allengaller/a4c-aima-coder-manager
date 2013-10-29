@@ -25,11 +25,26 @@ The LAMP solution is also so popular that EVERY VPS or Web Host or Cloud support
 
 OK, Features?
 -------------
-* Self-host or host by Apps4Coder. Your data matters.   
-* Cross platform client Apps. Update anytime and anywhere.   
-* Full-stack CMS system. We intend to build-in everything you ever gonna need for a CMS system.   
+
+* Self-hosting solution available.
+* Backup or restore your data precisely with the *BBK* tool.
+* Cross platform client Apps including iOS, Mac, Android, Windows, Linux(Debian).   
+* Full-stack CMS system. (Support features are listed as below).    
 * Nice and clear UI using the morden flat design.   
- 
+
+Full-stack CMS
+--------------
+
+* Theme system. (Bootstrap)
+* Plug-in system. (CakePHP)
+* WYSIWYG editor. (Bootstrap-wysiwyg)
+* Category & Tag system.
+* Static resources manager.
+* SEO support.
+* Page generator.
+* Code highlight support.
+* Online code editor.
+
 Contribute
 ----------
 Just fork it here and pull me;)   
@@ -39,4 +54,4 @@ Donate
 ------
 If you enjoy using Brownie, please make a donation to me at:   
 https://me.alipay.com/allengaller   
-Thank you！
+Thank you！   
