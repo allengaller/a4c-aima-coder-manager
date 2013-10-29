@@ -45,6 +45,17 @@ Full-stack CMS
 * Code highlight support.
 * Online code editor.
 
+UI Design
+---------
+
+* Default theme   
+* Default admin panel   
+
+About us
+--------
+Apps4Coder Studio
+[Apps4Coder Studio](http://apps4coder.com)   
+
 Contribute
 ----------
 Just fork it here and pull me;)   
@@ -55,3 +66,33 @@ Donate
 If you enjoy using Brownie, please make a donation to me at:   
 https://me.alipay.com/allengaller   
 Thank you！   
+
+# 布朗 - 优雅好用的CMS #
+
+关于
+----
+
+为何叫布朗
+----------
+
+为何用CakePHP
+-------------
+
+为何用PHP
+---------
+
+特性
+----
+
+全栈CMS
+-------
+
+UI展示
+------
+
+关于我们
+--------
+
+捐赠
+----
+
