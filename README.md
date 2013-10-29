@@ -53,8 +53,7 @@ UI Design
 
 About us
 --------
-Apps4Coder Studio
-[Apps4Coder Studio](http://apps4coder.com)
+Apps4Coder Studio (http://apps4coder.com)
 
 Contribute
 ----------
