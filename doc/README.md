@@ -1,15 +1,14 @@
 # Brownie Project Document #
 
-Doc Structure
--------------
+Requirement Document
+--------------------
 
-__3D__
+* BRD: Business Requirement Document   
+* MRD: Market Requirement Document   
+* PRD: Product Requirement Document
 
-* BRD
-* MRD
-* PRD
-
-__Tune__ 
+Tune
+-----
 
 * SEO
 * UAT
