@@ -1,4 +1,15 @@
-brownie
-=======
+# Brownie Project Document #
 
-Brownie - A delightful CMS for programmers.
+Doc Structure
+-------------
+
+__3D__
+
+* BRD
+* MRD
+* PRD
+
+__Tune__ 
+
+* SEO
+* UAT
