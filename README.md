@@ -1,9 +1,9 @@
-Brownie - A Delightful CMS
+Donuts - A Delightful CMS
 ==========================
 
 About
 -----
-Brownie is a full-stack, hacker/coder-friendly, interesting CMS system.   
+Donuts is a full-stack, hacker/coder-friendly, interesting CMS system.   
 This project covers the Linux server side, Mac/iOS/Android Client side, and of crouse the Web version.   
 The current on-going development is mainly focus on the Linux server side and the web version of Brownie.   
 
@@ -62,16 +62,16 @@ Or contact me at allengaller(at)gmail.com
 
 Donate
 ------
-If you enjoy using Brownie, please make a donation to me at:   
+If you enjoy using Donuts, please make a donation to me at:   
 https://me.alipay.com/allengaller   
 Thank you！   
 
-# 布朗 - 优雅好用的CMS #
+# 甜甜圈CMS- 优雅好用的CMS #
 
 关于
 ----
 
-为何叫布朗
+为何叫甜甜圈CMS
 ----------
 
 为何用CakePHP
