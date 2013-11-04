@@ -1,7 +1,5 @@
 <IfModule mod_rewrite.c>
    RewriteEngine on
-   RewriteRule    ^$ home/webroot/    [L]
-   RewriteRule    (.*) home/webroot/$1 [L]
-   RewriteRule    ^$ admin/webroot/    [L]
-   RewriteRule    (.*) admin/webroot/$1 [L]
+   RewriteRule    ^$ app/webroot/    [L]
+   RewriteRule    (.*) app/webroot/$1 [L]
 </IfModule>

@@ -229,7 +229,7 @@
 /**
  * A random numeric string (digits only) used to encrypt/decrypt strings.
  */
-	Configure::write('Security.cipherSeed', '123456789');
+	Configure::write('Security.cipherSeed', '987654321');
 
 /**
  * Apply timestamps with the last modified time to static assets (js, css, images).
@@ -269,7 +269,7 @@
  * Uncomment this line and correct your server timezone to fix
  * any date & time related errors.
  */
-	date_default_timezone_set('UTC');
+	//date_default_timezone_set('UTC');
 
 /**
  *
