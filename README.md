@@ -7,7 +7,7 @@ Donuts is a full-stack, hacker/coder-friendly, interesting CMS system.
 This project covers the Linux server side, Mac/iOS/Android Client side, and of crouse the Web version.   
 The current on-going development is mainly focus on the Linux server side and the web version of Brownie.   
 
-Why Brownie?
+Why Donuts?
 ------------
 Have you wonder, why wordpress is so slow but many of we coders need to stock with it like the IT newbies？   
 We don't like Wordpress, we knew it is the brainless and quick way to setup your CMS.
