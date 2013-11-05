@@ -1,9 +1,9 @@
-Donuts - A Delightful CMS
-==========================
+Donuts CMS - Delightful and Safe
+================================
 
 About
 -----
-Donuts is a full-stack, hacker/coder-friendly, interesting CMS system.   
+Donuts CMS is a full-stack, hacker/coder-friendly, interesting CMS system.   
 This project covers the Linux server side, Mac/iOS/Android Client side, and of crouse the Web version.   
 The current on-going development is mainly focus on the Linux server side and the web version of Brownie.   
 
