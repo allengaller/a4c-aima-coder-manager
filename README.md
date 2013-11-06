@@ -66,35 +66,6 @@ If you enjoy using Donuts, please make a donation to me at:
 https://me.alipay.com/allengaller   
 Thank you！   
 
-# 甜甜圈- 优雅管理 #
-
-关于
-----
-
-为何叫甜甜圈
-----------
-
-为何用CakePHP
--------------
-
-为何用PHP
----------
-
-特性
-----
-
-全栈CMS
--------
-
-UI展示
-------
-
-关于我们
---------
-
-捐赠
-----
-
 System Design Reference
 -----------------------
 
