@@ -1,6 +1,8 @@
 Donuts - Delightful Management
 ================================
 
+[中文版在这里](https://github.com/allengaller/donuts/blob/master/%E5%85%B3%E4%BA%8E.md)
+
 About
 -----
 Donuts is a full-stack, hacker/coder-friendly, interesting  system.   
