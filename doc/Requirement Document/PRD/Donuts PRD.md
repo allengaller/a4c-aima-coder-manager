@@ -19,9 +19,9 @@
 产品结构
 -------
 
-* CMS : Full-stack CMS including SEO and Analyst.   
-* GTD : Full-feature GTD system for personal usage.   
-* KMS : Flexible and high availability knowledge management.
-* PMS : Full-stack project management and collaboration system.   
-* Donuts Home : Fancy and tweak-able home page for both team and personal.
-* Donuts BAK : Backup all your Donuts data regularly and precisely.   
+* Baker CMS : Full-stack CMS including SEO and Analyst.   
+* Runbit GTD : Full-feature GTD system.   
+* Brainjar KMS : Flexible and high availability knowledge management system(KMS).
+* Boat PMS : Full-stack project management and collaboration system(PMS).   
+* Facegen : Fancy home page generator for team or personal.
+* DBK : Donuts backup system - Backup all your Donuts data regularly and precisely.   
