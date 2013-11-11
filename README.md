@@ -1,4 +1,4 @@
-Donuts - Delightful Management
+Donuts - A Programmer System
 ==============================
 
 * [中文版说明文件](https://github.com/allengaller/donuts/blob/master/%E5%85%B3%E4%BA%8E.md)   
