@@ -1,4 +1,4 @@
-Donuts - A Programmer System
+Aima - A Programmer System
 ==============================
 
 * [中文版说明文件](https://github.com/allengaller/donuts/blob/master/%E5%85%B3%E4%BA%8E.md)   
@@ -9,7 +9,7 @@ Donuts is a full-stack, hacker/coder-friendly, interesting  system.
 This project covers the Linux server side, Mac/iOS/Android Client side, and of crouse the Web version.   
 The current on-going development is mainly focus on the Linux server side and the web version of Brownie.   
 
-Why Donuts?
+Why Aima?
 ------------
 Have you wonder, why wordpress is so slow but many of we coders need to stock with it like the IT newbies？   
 We don't like Wordpress, we knew it is the brainless and quick way to setup your CMS.
